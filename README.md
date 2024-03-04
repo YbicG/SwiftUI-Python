@@ -1,6 +1,6 @@
 # GUI Creator
 
-GUI Creator is a Python library for creating graphical user interfaces (GUIs) using PyQt6 and/or Tkinter. It provides a simple interface for building GUIs with various elements like labels, buttons, and spacers.
+UNDER HEAVY DEVELOPMENT! GUI Creator is a Python library for creating graphical user interfaces (GUIs) using PyQt6 and/or Tkinter. It provides a simple interface for building GUIs with various elements like labels, buttons, and spacers.
 
 ## Installation
 
